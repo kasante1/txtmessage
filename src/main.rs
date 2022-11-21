@@ -4,14 +4,15 @@ fn main() {
     .expect("missing the message. Usage: new message <message>");
 
     println!("\n");
-    print!("{}", message);
+    print!("< {} >", message);
     println!("\n");
-    println!("_______");
-    println!(" \\");
-    println!("  \\");
-    println!("    ____");
-    println!("  /____//");
-    println!("  |_+_+_||");
-    println!("  |_+_+_||");
-    println!("  |_____|/");
+    println!("   _______");
+    println!("     \\");
+    println!("      \\");
+    println!("       _______");
+    println!("      /_______\\ ");
+    println!("      |       |");
+    println!("     (|  O.0  |)");
+    println!("      \\  __  /");
+    println!("       \\____/ ");
 }
