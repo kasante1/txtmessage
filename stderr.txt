@@ -1,0 +1,4 @@
+   Compiling txtmessage v0.1.0 (/home/asante/Desktop/txtmessage)
+    Finished dev [unoptimized + debuginfo] target(s) in 1.31s
+     Running `target/debug/txtmessage woof`
+ a man shouldn't bark like a dog
